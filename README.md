@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TazChain
+- 👋 Hi, I’m Taz!
 - 👀 I am interested in DBs, distributed networks, blockchains and OPs
 - 🌱 I’m currently study internet of things big data and machine learning at the university of udine
 - 💞️ I'm looking to collaborate with someone to learn how to develop blockchain based applications
